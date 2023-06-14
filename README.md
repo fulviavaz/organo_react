@@ -1,3 +1,9 @@
+# React App - Organo
+register and organize collaborators and teams
+
+![color picker](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjIxMGEwMTRkOThjMzI4YzZiMWNkYTU5YTY2NDU4NGE5NTMxZmNjYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/G3WCwxV4cXrwX8Ncbx/giphy.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
